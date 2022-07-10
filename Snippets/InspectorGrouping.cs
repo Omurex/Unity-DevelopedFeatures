@@ -11,13 +11,13 @@ public class ExampleClass : MonoBehaviour
 
     #region References
     [System.Serializable]
-    class References
+    class References_
     {
         [field: SerializeField] public Rigidbody rb { get; private set; }
         [field: SerializeField] public MeshRenderer meshRenderer { get; private set; }
         [field: SerializeField] public LineRenderer lineRenderer { get; private set; }
     }
-    [SerializeField] References references;
+    [SerializeField] References_ References;
     #endregion
 
     
