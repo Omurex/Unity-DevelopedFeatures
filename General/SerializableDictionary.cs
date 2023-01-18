@@ -5,6 +5,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Serialization;
 
+// Not my code, can't find link for attribution but the author posted it openly for anyone to use
 
 public class SerializableDictionary
 {
