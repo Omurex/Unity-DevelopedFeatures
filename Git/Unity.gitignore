@@ -87,9 +87,9 @@ sysinfo.txt
 # NO BUILDS ALLOWED IN GIT!!!
 *.apk
 *.aab
-*.unitypackage
+# *.unitypackage
+# *.dll
 *.exe
-*.dll
 *.x86_64
 *.debug
 *.so
